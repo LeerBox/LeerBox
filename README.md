@@ -13,7 +13,6 @@ As an ethical hacker, I’m interested in understanding vulnerabilities and help
 💻 **What I'm building**
 
 - **PCleaner:** A Windows cleanup tool built with C# and .NET, with a focus on protecting important data.
-- **LeerDisk:** A Python project focused on disk utilities.
 - **LeerBox Emulator:** Exploring Android emulation through a custom Windows interface and ADB integration.
 
 🧠 **What I'm exploring**
