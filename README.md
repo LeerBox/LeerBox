@@ -1,19 +1,29 @@
-👨‍💻 Dᴇvᴇʟᴏᴘᴇʀ | Pʀᴏɢʀᴀᴍᴍɪᴇʀᴇʀ | Tᴇᴄʜ Eɴᴛʜᴜsɪᴀsᴛ
+# Hey, I'm LeerBox 👋
 
-Ich bin ein Programmierer, der eine Leidenschaft für Softwareentwicklung und die Entdeckung neuer Technologien hat. Ich liebe es, komplexe Probleme zu lösen und innovative Lösungen zu entwickeln. Für mich ist Programmierung nicht nur ein Beruf, sondern eine Leidenschaft, die ich jeden Tag lebe.
+**Developer · Ethical Hacker · Local AI Enthusiast**
 
-🔍 Mᴇɪɴᴇ Sᴋɪʟʟs:
+I build software that makes everyday tasks easier. I enjoy understanding how things work, turning ideas into practical tools, and improving them along the way. Clean interfaces, simplicity, and respect for the user matter to me.
 
-Softwareentwicklung: Python, JavaScript, und PHP
+🛡️ **What I stand for**
 
-Webentwicklung: HTML, CSS, und JavaScript (Front-End) und PHP (Back-End)
+I believe in an ad-free digital experience. I work toward removing unwanted advertising and reducing the problems it brings, from tracking and distractions to malicious redirects and malware.
 
-Datenbanken: MySQL und MongoDB
+As an ethical hacker, I’m interested in understanding vulnerabilities and helping make systems safer. That same mindset shapes how I approach my own projects: putting users, their privacy, and their data first.
 
-Versionierung: Git und GitHub
+💻 **What I'm building**
 
-🌱 Ich lerne immer weiter:
-Ich strebe danach, kontinuierlich zu wachsen und mich als Entwickler zu verbessern. Egal, ob es darum geht, neue Werkzeuge auszuprobieren oder neue Programmiersprachen zu lernen – ich liebe es, mich selbst herauszufordern.
+- **PCleaner:** A Windows cleanup tool built with C# and .NET, with a focus on protecting important data.
+- **LeerDisk:** A Python project focused on disk utilities.
+- **LeerBox Emulator:** Exploring Android emulation through a custom Windows interface and ADB integration.
 
-💬 Lass uns zusammenarbeiten!
-Ich bin immer auf der Suche nach spannenden Projekten und Möglichkeiten, um mit anderen Entwicklern zusammenzuarbeiten. Wenn du an einem Projekt interessiert bist oder einfach nur plaudern möchtest, zögere nicht, mich zu kontaktieren!
+🧠 **What I'm exploring**
+
+Local AI and running language models on my own hardware. I experiment with tools like Ollama and vLLM to explore what’s possible.
+
+🛠️ **Technologies I work with**
+
+Python · C# / .NET · JavaScript · PHP · HTML / CSS · Git
+
+I learn by building, experimenting, and refining. I value software that does its job well and stays simple to use.
+
+*Keep it simple, that’s how you stay fly.*
