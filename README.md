@@ -2,94 +2,43 @@
 
 # LeerBox
 
-### Practical tools. Clear interfaces. More control.
+**Practical tools for Windows and the browser — built for privacy, clarity and control.**
 
 Developer · Ethical hacking · Local AI
 
-I build tools for Windows and the browser, explore how systems work, and turn everyday frustrations into useful software.
-
-[Explore my projects](#selected-projects) · [Download Cleaner](https://github.com/LeerBox/Cleaner/releases) · [What drives my work](#what-drives-my-work)
+![C#](https://img.shields.io/badge/C%23%20%2F%20.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
 </div>
 
----
+## Featured — [Cleaner](https://github.com/LeerBox/Cleaner)
 
-## Featured project
-
-### [Cleaner](https://github.com/LeerBox/Cleaner)
-**See what goes. Keep what matters.**
-
-A Windows cleanup tool with a preview-first workflow, browser-cache controls, optional history cleanup, and a custom desktop interface.
-
-**Analyze → Review → Confirm**
+**See what goes. Keep what matters.** A preview-first Windows cleanup tool: analyze, review every item, then confirm. Includes browser-cache controls and optional history cleanup.
 
 [![Cleaner — cleanup review interface](https://raw.githubusercontent.com/LeerBox/Cleaner/main/docs/images/cleanup-dark.png)](https://github.com/LeerBox/Cleaner)
 
-Built with **PowerShell + Windows Forms**, with a **C# EXE launcher**. Available as an unsigned public preview.
+PowerShell + Windows Forms with a C# launcher · unsigned public preview · [Source](https://github.com/LeerBox/Cleaner) · [Download](https://github.com/LeerBox/Cleaner/releases)
 
-[View the source →](https://github.com/LeerBox/Cleaner) &nbsp; [Download the preview →](https://github.com/LeerBox/Cleaner/releases)
+## Projects
 
-## Selected projects
+| Project | What it does | Stack | Release |
+| --- | --- | --- | --- |
+| [**Cleaner**](https://github.com/LeerBox/Cleaner) | Preview-first Windows cleanup with browser-cache controls | PowerShell · WinForms | [![release](https://img.shields.io/github/v/release/LeerBox/Cleaner?include_prereleases&style=flat-square&label=)](https://github.com/LeerBox/Cleaner/releases) |
+| [**Passaver**](https://github.com/LeerBox/Passaver) | Device-bound password saver for Chrome, Edge and Brave | JavaScript · DPAPI | [![release](https://img.shields.io/github/v/release/LeerBox/Passaver?style=flat-square&label=)](https://github.com/LeerBox/Passaver/releases) |
+| [**NordTime**](https://github.com/LeerBox/NordTime) | Matches the browser's time zone to your VPN / IP location | JavaScript · Manifest V3 | [![release](https://img.shields.io/github/v/release/LeerBox/NordTime?style=flat-square&label=)](https://github.com/LeerBox/NordTime/releases) |
+| [**Banish**](https://github.com/LeerBox/banish) | One-click "Not interested" + block for TikTok accounts | JavaScript · Manifest V3 | [![release](https://img.shields.io/github/v/release/LeerBox/banish?style=flat-square&label=)](https://github.com/LeerBox/banish/releases) |
+| [**Neon Cue**](https://github.com/LeerBox/Neon-Cue) | Neon billiards with six game modes and a physics-simulating AI | C# · WinForms | [![release](https://img.shields.io/github/v/release/LeerBox/Neon-Cue?style=flat-square&label=)](https://github.com/LeerBox/Neon-Cue/releases) |
+| [**Fix-Flickering-MPO**](https://github.com/LeerBox/Fix-Flickering-MPO) | Reversible registry fix for Windows screen flickering (MPO) | Registry | [![release](https://img.shields.io/github/v/release/LeerBox/Fix-Flickering-MPO?style=flat-square&label=)](https://github.com/LeerBox/Fix-Flickering-MPO/releases) |
 
-<table>
-<tr>
-<td width="50%" valign="top">
+## How I work
 
-### [NordTime](https://github.com/LeerBox/NordTime)
-A browser extension that matches the browser's time zone to its VPN / IP location.
+- **Useful first** — solve a real problem, then keep refining the experience.
+- **Less noise** — fewer ads, less tracking, fewer distractions.
+- **Responsible security** — understand vulnerabilities to make systems safer.
+- **Local AI** — running language models on my own hardware (Ollama, vLLM).
 
-**JavaScript · Manifest V3**
+## Feedback
 
-</td>
-<td width="50%" valign="top">
-
-### [Neon Cue](https://github.com/LeerBox/Neon-Cue)
-Neon billiards with six game modes and a physics-simulating opponent.
-
-**C# · Games**
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### [Banish](https://github.com/LeerBox/banish)
-Quick “Not interested” and block actions for TikTok accounts across videos, comments, profiles and search.
-
-**JavaScript · Browser tools**
-
-</td>
-<td width="50%" valign="top">
-
-### [Passaver](https://github.com/LeerBox/Passaver)
-A device-bound password-saving tool for Chrome, Edge and Brave on Windows.
-
-**JavaScript · Windows**
-
-</td>
-</tr>
-</table>
-
-**Also:** [Fix-Flickering-MPO](https://github.com/LeerBox/Fix-Flickering-MPO) — a reversible Windows MPO setting change for troubleshooting display flickering.
-
-## What drives my work
-
-- **Useful software:** solve a real problem, then keep refining the experience.
-- **Less noise:** reduce unwanted advertising, tracking and distractions.
-- **Responsible exploration:** understand vulnerabilities and help make systems safer.
-- **Local AI:** experiment with language models on my own hardware, including Ollama and vLLM.
-
-## Tools I work with
-
-**C# / .NET** · **PowerShell** · **JavaScript** · **Python**  
-PHP · HTML / CSS · Git
-
-## Feedback & collaboration
-
-Found a bug or have an idea? Open an issue in the relevant repository with a clear description and steps to reproduce it. Please remove personal information from logs and screenshots.
-
----
-
-<div align="center">
-<sub>Build. Understand. Refine.</sub>
-</div>
+Found a bug or have an idea? Open an issue in the relevant repository with clear steps to reproduce. Please remove personal information from logs and screenshots.
