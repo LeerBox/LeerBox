@@ -23,6 +23,8 @@ A Windows cleanup tool with a preview-first workflow, browser-cache controls, op
 
 **Analyze → Review → Confirm**
 
+[![Cleaner — cleanup review interface](https://raw.githubusercontent.com/LeerBox/Cleaner/main/docs/images/cleanup-dark.png)](https://github.com/LeerBox/Cleaner)
+
 Built with **PowerShell + Windows Forms**, with a **C# EXE launcher**. Available as an unsigned public preview.
 
 [View the source →](https://github.com/LeerBox/Cleaner) &nbsp; [Download the preview →](https://github.com/LeerBox/Cleaner/releases)
